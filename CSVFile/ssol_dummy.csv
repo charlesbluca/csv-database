@@ -1,0 +1,68 @@
+Uni,Student_ID,First_Name,Middle_Name,Last_Name,Email,School,Level,Affiliation,Points,email_suffix
+bn0523,C0041489638,Brett,,Nelson,bn0523@columbia.edu,EN  ,U04,ENCOMS,3,columbia.edu
+ew0711,C0040176340,Eaton,,Waller,ew0711@columbia.edu,EN  ,U04,ENCOMS,3,columbia.edu
+ew0052,C0040376676,Echo,,Winters,ew0052@columbia.edu,EN  ,U02,ENCOMS,3,columbia.edu
+ah0107,C0041776519,Amela,Christopher,Henson,ah0107@columbia.edu,EN  ,U04,ENCOMS,3,columbia.edu
+rs0895,C0038956143,Rhoda,,Strong,rs0895@columbia.edu,EN  ,U02,ENCOMS,3,columbia.edu
+ab0867,C0040695744,August,Daniela,Barlow,ab0867@columbia.edu,EN  ,U02,ENCOMS,3,columbia.edu
+ph0783,C0040943779,Patience,,Hancock,ph0783@columbia.edu,EN  ,U03,ENOPRE,3,columbia.edu
+jb0928,C0041057552,Jeanette,,Baker,jb0928@columbia.edu,EN  ,U02,ENCOMS,3,columbia.edu
+bf0071,C0041936672,Brady,Cameron,Fuentes,bf0071@columbia.edu,EP  ,G01,EMCOMS,3,columbia.edu
+rt0404,C0041130034,Ramona,,Terrell,rt0404@columbia.edu,EP  ,G01,ETCOMS,3,columbia.edu
+cf0251,C0041296187,Colt,,Frazier,cf0251@columbia.edu,CC  ,U03,CCCOMS,3,columbia.edu
+fr0345,C0041582401,Fritz,Luo,Ross,fr0345@columbia.edu,EN  ,U03,ENOPRE,3,columbia.edu
+zc0566,C0039269137,Zachary,,Curtis,zc0566@columbia.edu,EN  ,U02,ENCOMS,3,columbia.edu
+gl0157,C0041145526,Galvin,Pratap,Landry,gl0157@columbia.edu,EP  ,G01,EMCOMS,3,columbia.edu
+uc0967,C0042037552,Ursula,,Cobb,uc0967@columbia.edu,EP  ,G02,EMCOMS,3,columbia.edu
+dp0672,C0039732139,Dale,,Parks,dp0672@columbia.edu,EN  ,U04,ENOPRE,3,columbia.edu
+eh0287,C0041045228,Elijah,,Hobbs,eh0287@columbia.edu,CC  ,U03,CCCOMS,3,columbia.edu
+os0783,C0041428398,Oren,,Simon,os0783@columbia.edu,EP  ,G01,EMCMEN,3,columbia.edu
+bb0387,C0041499417,Bruno,,Bond,bb0387@columbia.edu,EP  ,G01,EMCOMS,3,columbia.edu
+bc0657,C0041790259,Brianna,,Cervantes,bc0657@columbia.edu,EP  ,G01,EMCMEN,3,columbia.edu
+uw0804,C0041214603,Ulric,,Waller,uw0804@columbia.edu,EP  ,G03,EMCOMS,3,columbia.edu
+gl0544,C0040544013,Gisela,,Leblanc,gl0544@columbia.edu,EN  ,U02,ENCOMS,3,columbia.edu
+bm0018,C0039510787,Benjamin,,Mcneil,bm0018@columbia.edu,EN  ,U02,ENEMGT,3,columbia.edu
+hp0476,C0041613404,Hashim,Richard,Pennington,hp0476@columbia.edu,EN  ,U04,ENCOMS,3,columbia.edu
+kb0168,C0040050749,Kendall,Frances,Battle,kb0168@columbia.edu,CC  ,U03,CCSTAB,3,columbia.edu
+er0625,C0040412316,Emmanuel,Nikhil,Rosales,er0625@columbia.edu,EN  ,U04,ENCOMS,3,columbia.edu
+lp0672,C0041162946,Lionel,,Paul,lp0672@columbia.edu,EN  ,U03,ENCOMS,3,columbia.edu
+ag0862,C0039078284,Adrienne,,Griffin,ag0862@columbia.edu,CC  ,U04,CCCOMS,3,columbia.edu
+mc0086,C0039621772,Maris,,Charles,mc0086@columbia.edu,BC  ,U03,BCCR  ,3,columbia.edu
+rh0618,C0041022481,Reed,,Howard,rh0618@columbia.edu,EN  ,U04,ENCOMS,3,columbia.edu
+cw0884,C0039596378,Cedric,,Wells,cw0884@columbia.edu,EP  ,G01,EMCOMS,3,columbia.edu
+bn0871,C0040022659,Briar,,Nielsen,bn0871@columbia.edu,EN  ,U02,ENCOMS,3,columbia.edu
+db0060,C0041003099,Dawn,,Burch,db0060@columbia.edu,EN  ,U04,ENCOMS,3,columbia.edu
+lw0577,C0041425437,Lila,,Wynn,lw0577@columbia.edu,EN  ,U02,ENOPRE,3,columbia.edu
+sm0526,C0040110336,Slade,,Mullins,sm0526@columbia.edu,EP  ,G01,EMCOMS,3,columbia.edu
+ea0230,C0041886172,Evan,Sebastian,Aguilar,ea0230@columbia.edu,EN  ,U02,ENCOMS,3,columbia.edu
+zh0109,C0041048535,Zeph,,Heath,zh0109@columbia.edu,BC  ,U04,BCCR  ,3,columbia.edu
+zw0958,C0041768462,Zena,,Walter,zw0958@barnard.edu,BC  ,U03,BCCR  ,3,barnard.edu
+cj0766,C0041754627,Clark,Munyiva,Jenkins,cj0766@barnard.edu,BC  ,U04,BCCR  ,3,barnard.edu
+jf0604,C0039861103,Jamalia,,Figueroa,jf0604@columbia.edu,EN  ,U02,ENOPRE,3,columbia.edu
+rc0577,C0040085473,Rae,,Cardenas,rc0577@columbia.edu,EP  ,G01,EMCOMS,3,columbia.edu
+nm0695,C0039187604,Nathaniel,,Mccray,nm0695@columbia.edu,CC  ,U03,CCCOMS,3,columbia.edu
+sr0875,C0041883725,Sandra,,Rose,sr0875@columbia.edu,EN  ,U02,ENCOMS,3,columbia.edu
+sb0612,C0039852808,Sarah,Jiyoung,Beasley,sb0612@columbia.edu,EN  ,U03,ENINEN,3,columbia.edu
+mg0147,C0041298366,Marny,,Gill,mg0147@columbia.edu,EN  ,U03,ENCOMS,3,columbia.edu
+mw0788,C0040191184,Mariko,Hannah,Wolf,mw0788@barnard.edu,BC  ,U02,BCCR  ,3,barnard.edu
+rh0092,C0039469531,Risa,,Hines,rh0092@columbia.edu,EN  ,U03,ENEMGT,3,columbia.edu
+jf0766,C0039244058,Joel,Ly-Lan,Frost,jf0766@columbia.edu,EN  ,U03,ENCOMS,3,columbia.edu
+ge0494,C0041831283,Gage,,Estrada,ge0494@columbia.edu,EP  ,G01,EMCOMS,3,columbia.edu
+pw0221,C0039934240,Price,,Weber,pw0221@columbia.edu,CC  ,U03,CCHISP,3,columbia.edu
+kg0940,C0041300168,Kelly,,Guthrie,kg0940@columbia.edu,EP  ,G01,EMCOMS,3,columbia.edu
+mb0611,C0041744358,MacKensie,,Benton,mb0611@columbia.edu,EP  ,G01,EMCOMS,3,columbia.edu
+sm0627,C0040669586,Scarlet,,Mcclain,sm0627@columbia.edu,CC  ,U03,CCCOMS,3,columbia.edu
+bh0137,C0039027749,Bert,,Hutchinson,bh0137@columbia.edu,EN  ,U03,ENOPRE,3,columbia.edu
+kb0923,C0040323512,Kamal,,Bird,kb0923@columbia.edu,GS  ,U04,GSCSCA,3,columbia.edu
+vf0933,C0039792398,Vaughan,,Fields,vf0933@columbia.edu,EN  ,U03,ENCOMS,3,columbia.edu
+bh0924,C0040912898,Buffy,,Hughes,bh0924@barnard.edu,BC  ,U03,BCCR  ,3,barnard.edu
+kl0649,C0041566038,Kuame,Bing,Lara,kl0649@columbia.edu,EN  ,U02,ENCOMS,3,columbia.edu
+mk0599,C0041017430,Madaline,Wenyan,Kramer,mk0599@columbia.edu,EN  ,U02,ENCOMS,3,columbia.edu
+lr0273,C0039877936,Lance,,Robertson,lr0273@columbia.edu,EP  ,G01,EMCOMS,3,columbia.edu
+lm0144,C0038905758,Lacota,,Maxwell,lm0144@columbia.edu,EN  ,U02,ENCOMS,3,columbia.edu
+gs0758,C0041034784,Gareth,Yuanjia,Snyder,gs0758@columbia.edu,EN  ,U02,ENCOMS,3,columbia.edu
+pd0731,C0040529825,Peter,Amy,Delgado,pd0731@barnard.edu,BC  ,U02,BCCR  ,3,barnard.edu
+dm0653,C0040150688,Deanna,Thomas,Mcneil,dm0653@columbia.edu,EN  ,U03,ENCOMS,3,columbia.edu
+hc0343,C0041870466,Hanae,,Chandler,hc0343@columbia.edu,EP  ,G01,EMCOMS,3,columbia.edu
+ur0934,C0041669383,Ursula,,Ramirez,ur0934@columbia.edu,EP  ,G01,ETCOMS,3,columbia.edu
+ad0609,C0039162760,Autumn,Ruth,Downs,ad0609@barnard.edu,BC  ,U02,BCCR  ,3,barnard.edu
